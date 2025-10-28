@@ -97,7 +97,14 @@ Ao concluir este desafio, você será capaz de:
 
 ## 🧑‍💻 Autor
 
-Murilo Humberto Martins 
-Analista de Dados | Entusiasta em IA, Automação e Análise de Linguagem Natural
+Murilo Humberto Martins  
+Estudante de Análise e Desenvolvimento de Sistemas + Engenharia de Produção
+
+🔗**LinkedIn:** https://www.linkedin.com/in/murilo-humberto-martins  
+🔗**GitHub:** https://github.com/m-h-martins 
+
+💡 Apaixonado por dados, processos e melhoria contínua, tecnologia, automação e soluções inteligentes.  
+Desenvolvo projetos que combinam **análise de dados**, **IA aplicada** e **melhoria de processos**, sempre buscando eficiência e aprendizado contínuo.
+
 📍 Repositório criado para fins educacionais — Desafio Azure AI da DIO / Microsoft Learning
 
